@@ -1,0 +1,27 @@
+.column1{
+position: fixed;
+}
+
+
+ul{
+    flex-direction: column;
+    justify-content: center;  
+}
+.column3{
+    flex-direction: column;
+    justify-content: space-between;  
+}
+li{
+    list-style: none;
+    border-radius: 20px;
+    background-color: rgb(64, 66, 66);
+    
+    
+}
+a{
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+#home-1:hover{
+    color: blue;
+}
